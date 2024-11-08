@@ -51,7 +51,7 @@ const About = () => {
           viewport={{ once: true }}
           transition={{ delay: 0.2, duration: 0.5 }}
         >
-          I'm a passionate full-stack developer with experience in building web applications using modern technologies. I love creating beautiful and performant products with delightful user experiences.
+          I&apos;m a passionate full-stack developer with experience in building web applications using modern technologies. I love creating beautiful and performant products with delightful user experiences.
         </motion.p>
         {/* Timeline */}
         <div className="relative">
