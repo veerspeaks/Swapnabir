@@ -1,31 +1,30 @@
 'use client';
 import React from 'react';
 import { motion } from 'framer-motion';
-
 const journeyData = [
   {
     title: 'Chemistry Graduate',
     description:
       'I started my career with a degree in Chemistry, which laid the foundation for my analytical skills.',
-    icon: '/icons/chemistry.png',
+    icon: '/chemistry.png', // Example SVG from public directory
   },
   {
     title: 'Subject Matter Expert',
     description:
       'For 2.5 years, I worked as a Subject Matter Expert in Chemistry, honing my expertise and problem-solving abilities.',
-    icon: '/icons/expert.png',
+    icon: '/sme.png', // Example SVG from public directory
   },
   {
     title: 'Full Stack Developer',
     description:
       'Transitioning into tech, I became a full-stack developer, creating dynamic and responsive web applications.',
-    icon: '/icons/developer.png',
+    icon: '/fs.webp', // Example SVG from public directory
   },
   {
     title: 'Cloud Solution Architect (Future)',
     description:
       'I am now aiming to expand my skills into cloud solutions, aspiring to become a Cloud Solution Architect.',
-    icon: '/icons/cloud.png',
+    icon: '/aws.png', // Example SVG from public directory
   },
 ];
 

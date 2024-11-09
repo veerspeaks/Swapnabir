@@ -7,10 +7,10 @@ const Footer = () => {
     <footer className="bg-gray-900 py-6">
       <div className="container mx-auto px-6 text-center">
         <div className="flex justify-center space-x-6 text-gray-400 mb-4">
-          <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/veerspeaks" target="_blank" rel="noopener noreferrer">
             <FaGithub size={24} className="hover:text-yellow-400" />
           </a>
-          <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/swapnabir-dutta-927a71195/" target="_blank" rel="noopener noreferrer">
             <FaLinkedin size={24} className="hover:text-yellow-400" />
           </a>
           <a href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer">
