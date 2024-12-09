@@ -4,7 +4,7 @@ import ScrollIndicator from '../components/ScrollIndicator';
 
 
 export const metadata = {
-  title: 'Swapnabir Dutta',
+  title: 'Swapnabir\'s Portfolio',
   description: 'Portfolio of Swapnabir Dutta,',
 }
 

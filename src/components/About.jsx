@@ -73,7 +73,7 @@ const About = () => {
               {/* Center icon positioned absolutely */}
               <div className="relative md:static flex justify-center w-full">
                 <div className="absolute md:relative w-12 h-12 bg-yellow-400 rounded-full flex items-center justify-center transform -translate-x-1/2 md:translate-x-0 left-1/2 md:left-auto">
-                  <img src={step.icon} alt={step.title} className="w-6 h-6" />
+                  <img src={`${step.icon}`} alt={step.title} className="w-6 h-6" />
                 </div>
               </div>
               {/* Empty space on the other side */}
